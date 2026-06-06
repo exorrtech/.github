@@ -4,19 +4,19 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Fractional+CISO;Azure+%26+AI+Security+Advisory;The+void+has+no+surface+to+attack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Offensive+Security+Operator;Azure+%26+AI+Offensive+Security;I+walk+the+void)](https://git.io/typing-svg)
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-exorrtech.github.io-00ff41?style=flat-square&logo=github&logoColor=white)](https://exorrtech.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EXORR%20Security-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/exorr-security)
-[![Email](https://img.shields.io/badge/Email-EXORR%20Security-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:exorrnull@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EXORR-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/exorr-security)
+[![Email](https://img.shields.io/badge/Email-EXORR-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:exorrnull@gmail.com)
 
 </div>
 
 ---
 
-Fractional CISO specializing in Azure cloud and AI infrastructure security. Attack chain research, red team operations, and hardening what others leave exposed. Available per-engagement.
+Offensive Security Operator specializing in Azure cloud and AI infrastructure security. Attack chain research, red team operations, and hardening what others leave exposed. Available per-engagement.
 
 ---
 
@@ -60,7 +60,7 @@ Fractional CISO specializing in Azure cloud and AI infrastructure security. Atta
 
 ## ⚡ Services
 
-**Fractional CISO** · On-demand security leadership — strategy, policy, incident response
+**Offensive Security Operator** · Full-spectrum attack & defend — recon, red team, hardening
 
 **Void Scan** · Attack surface mapping & subdomain reconnaissance
 
