@@ -16,11 +16,21 @@
 
 ---
 
-Offensive Security Operator specializing in Azure cloud and AI infrastructure security. Attack chain research, red team operations, and hardening what others leave exposed. Available per-engagement.
+Offensive Security Operator specializing in Azure cloud and AI infrastructure. I find the holes before the attackers do — then I close them.
 
 ---
 
-## 🛡️ Security Tools
+## 🛡️ Arsenal
+
+| Tool | What It Does |
+|------|-------------|
+| [exorr-prompt-fuzzer](https://github.com/exorrtech/exorr-prompt-fuzzer) | LLM injection & jailbreak testing. 19 payloads, 12 models tested. |
+| [exorr-azure-audit](https://github.com/exorrtech/exorr-azure-audit) | Entra ID & Azure security posture assessment. |
+| [exorr-secret-scanner](https://github.com/exorrtech/exorr-secret-scanner) | Credential leak detection across repos, commits, branches. |
+| [exorr-subdomain-monitor](https://github.com/exorrtech/exorr-subdomain-monitor) | Continuous subdomain discovery + takeover detection. |
+| [recon-toolkit](https://github.com/exorrtech/recon-toolkit) | Automated attack surface mapping — passive recon to active enumeration. |
+
+<br/>
 
 <a href="https://github.com/exorrtech/exorr-prompt-fuzzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=exorrtech&repo=exorr-prompt-fuzzer&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=888888" />
@@ -48,27 +58,25 @@ Offensive Security Operator specializing in Azure cloud and AI infrastructure se
 | Entra ID Privilege Escalation via Role Assignment | **High** | Microsoft Entra ID |
 | OpenAI Prompt Injection via System Prompt Override | **High** | Azure OpenAI |
 
-**Active research:** AI Agent Attack Chains · Azure Lateral Movement · LLM Jailbreak Taxonomy
+**Active:** AI Agent Attack Chains · Azure Lateral Movement · LLM Jailbreak Taxonomy
 
 ---
 
 ## 📜 Credentials
 
-`ISC2 CC` `MS-900` `OSCP — 2026`
+`ISC2 CC` `MS-900`
 
 ---
 
 ## ⚡ Services
 
-**Offensive Security Operator** · Full-spectrum attack & defend — recon, red team, hardening
+**Void Scan** · Attack surface mapping — find everything before the attackers do
 
-**Void Scan** · Attack surface mapping & subdomain reconnaissance
+**AI Red Team Sprint** · LLM injection, prompt injection, jailbreak testing
 
-**AI Red Team Sprint** · LLM prompt injection & jailbreak testing
+**Azure Security Audit** · Entra ID + Azure hardening — what your auditor will find first
 
-**Full Security Audit** · Azure/Entra ID misconfiguration assessment
-
-**Penetration Testing** · Application & infrastructure pentesting
+**Red Team Operations** · Full attack chain — from recon to post-exploitation
 
 ---
 
@@ -92,6 +100,6 @@ Offensive Security Operator specializing in Azure cloud and AI infrastructure se
 
 <div align="center">
 
-*Walk with the void.*
+*I walk the void.*
 
 </div>
