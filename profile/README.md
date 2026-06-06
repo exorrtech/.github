@@ -16,19 +16,22 @@
 
 ---
 
-Offensive Security Operator specializing in Azure cloud and AI infrastructure. I find the holes before the attackers do — then I close them.
+*"Thirty spokes meet at the hub. It is because of what is not there that the wagon is useful."*
+— Tao Te Ching, Chapter 11
+
+The attack surface is what others miss. I find what is not there — the misconfiguration, the forgotten subdomain, the prompt that wasn't sanitized. Empty spaces that make systems useful. Empty spaces that make them break.
 
 ---
 
 ## 🛡️ Arsenal
 
-| Tool | What It Does |
-|------|-------------|
-| [exorr-prompt-fuzzer](https://github.com/exorrtech/exorr-prompt-fuzzer) | LLM injection & jailbreak testing. 19 payloads, 12 models tested. |
-| [exorr-azure-audit](https://github.com/exorrtech/exorr-azure-audit) | Entra ID & Azure security posture assessment. |
-| [exorr-secret-scanner](https://github.com/exorrtech/exorr-secret-scanner) | Credential leak detection across repos, commits, branches. |
-| [exorr-subdomain-monitor](https://github.com/exorrtech/exorr-subdomain-monitor) | Continuous subdomain discovery + takeover detection. |
-| [recon-toolkit](https://github.com/exorrtech/recon-toolkit) | Automated attack surface mapping — passive recon to active enumeration. |
+| Tool | Purpose |
+|------|---------|
+| [exorr-prompt-fuzzer](https://github.com/exorrtech/exorr-prompt-fuzzer) | Find what the LLM wasn't trained to refuse. |
+| [exorr-azure-audit](https://github.com/exorrtech/exorr-azure-audit) | Entra ID hardening — close what Azure leaves open. |
+| [exorr-secret-scanner](https://github.com/exorrtech/exorr-secret-scanner) | Exposed credentials — the leak in the vessel. |
+| [exorr-subdomain-monitor](https://github.com/exorrtech/exorr-subdomain-monitor) | The forgotten spoke — infrastructure others missed. |
+| [recon-toolkit](https://github.com/exorrtech/recon-toolkit) | Map the surface others cannot see. |
 
 <br/>
 
@@ -52,6 +55,11 @@ Offensive Security Operator specializing in Azure cloud and AI infrastructure. I
 
 ## 🔬 Research
 
+*"The five colors blind the eye. The five sounds deafen the ear."*
+— Tao Te Ching, Chapter 12
+
+Most miss what they are not looking for. These findings are what I found by looking at what was not there.
+
 | Finding | Severity | Target |
 |---------|----------|--------|
 | Key Vault Secret Extraction via Privileged Identity Assignment | **Critical** | Azure Key Vault |
@@ -70,13 +78,15 @@ Offensive Security Operator specializing in Azure cloud and AI infrastructure. I
 
 ## ⚡ Services
 
-**Void Scan** · Attack surface mapping — find everything before the attackers do
+*"The soft overcomes the hard. The weak overcomes the strong."*
+— Tao Te Ching, Chapter 43
 
-**AI Red Team Sprint** · LLM injection, prompt injection, jailbreak testing
-
-**Azure Security Audit** · Entra ID + Azure hardening — what your auditor will find first
-
-**Red Team Operations** · Full attack chain — from recon to post-exploitation
+| Service | What It Does |
+|---------|-------------|
+| **Void Scan** | Map the attack surface. Find what is not there. |
+| **AI Red Team** | Probe the LLM until it breaks. Find the prompt the model wasn't trained to refuse. |
+| **Azure Security Audit** | Entra ID + Azure hardening. What your auditor will find first — I find first. |
+| **Red Team Operations** | Full attack chain. From the forgotten spoke to full compromise. |
 
 ---
 
@@ -100,6 +110,6 @@ Offensive Security Operator specializing in Azure cloud and AI infrastructure. I
 
 <div align="center">
 
-*I walk the void.*
+*"Be still. The Tao does not force. It flows through what offers no resistance."*
 
 </div>
