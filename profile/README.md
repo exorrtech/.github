@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-exorrtech.github.io-00ff41?style=flat-square&logo=github&logoColor=white)](https://exorrtech.github.io)
+[![Website](https://img.shields.io/badge/Website-www.exorr.tech-00ff41?style=flat-square&logo=github&logoColor=white)](https://www.exorr.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EXORR-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/exorr-security)
-[![Email](https://img.shields.io/badge/Email-EXORR-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:exorrnull@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EXORR-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ops@exorr.tech)
 
 </div>
 
